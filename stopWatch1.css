@@ -1,0 +1,27 @@
+body {
+    background-color: dodgerblue;
+    text-align: center;
+    margin-top: 240px;
+}
+
+div {
+    color: white;
+    font-size: 40px;
+}
+
+p {
+    color: white;
+    font-size: 50px;
+}
+
+button {
+    background-color: dodgerblue;
+    color: white;
+    width: 70px;
+    height: 50px;
+    margin-right: 25px;
+    cursor: pointer;
+    border-radius: 10px;
+    border-style: double;
+    border-color: white;
+}
